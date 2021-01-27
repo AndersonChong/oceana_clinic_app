@@ -1,0 +1,40 @@
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\bin\Debug\OceanaApp.exe.config
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\bin\Debug\OceanaApp.exe
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\bin\Debug\OceanaApp.pdb
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\bin\Debug\OceanaApp.xml
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\obj\Debug\OceanaApp.vbprojAssemblyReference.cache
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\obj\Debug\OceanaApp.Resources.resources
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\obj\Debug\OceanaApp.vbproj.GenerateResource.cache
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\obj\Debug\OceanaApp.vbproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\obj\Debug\OceanaApp.exe
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\obj\Debug\OceanaApp.xml
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\obj\Debug\OceanaApp.pdb
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\obj\Debug\OceanaApp.Login.resources
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\obj\Debug\OceanaApp.PatientRecord.resources
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\obj\Debug\OceanaApp.Nurse.resources
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\obj\Debug\OceanaApp.Doctor.resources
+C:\Users\ander\source\repos\OceanaApp\OceanaApp\obj\Debug\OceanaApp.TreatmentRecord.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.vbprojAssemblyReference.cache
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.Billing_Calculator.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.Billing_New.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.PatientRecord_Edit.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.Nurse_Home.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.Doctor_Home.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.Resources.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.Administrator_Home.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.StaffRecord_Edit.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.TreatmentRecord.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.vbproj.GenerateResource.cache
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.vbproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.exe
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.xml
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.pdb
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\bin\Debug\OceanaApp.exe.config
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\bin\Debug\OceanaApp.exe
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\bin\Debug\OceanaApp.pdb
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\bin\Debug\OceanaApp.xml
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.Login_Form.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.StaffRecord_New.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.PatientRecord_New.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.TreatmentRecord_Edit.resources
+C:\Users\ander\OneDrive\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\OceanaApp\OceanaApp\obj\Debug\OceanaApp.TreatmentRecord_New.resources
